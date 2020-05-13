@@ -1,11 +1,11 @@
 # molokai-italic
 
-Molokai-italic is a Vim port of the monokai theme for TextMate originally created by
-Wimer Hazenberg. 
-
-256-Color terminals are also supported, though there are some differences with
-the Gui version. Only the dark gray background style is supported on terminal
-vim at this time.
+> Molokai is a Vim port of the monokai theme for TextMate originally created by
+> Wimer Hazenberg. 
+>
+> 256-Color terminals are also supported, though there are some differences with
+> the Gui version. Only the dark gray background style is supported on terminal
+> vim at this time.
 
 
 This is a fork of [fatih/molokai](https://github.com/fatih/molokai) with the following changes:

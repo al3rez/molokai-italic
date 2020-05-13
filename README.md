@@ -1,4 +1,7 @@
 # molokai-italic
+![molokai-italic-preview](molokai-italic.png)
+__FONT__: Cartograph CF | 
+__TERM__: Alacritty
 
 > Molokai is a Vim port of the monokai theme for TextMate originally created by
 > Wimer Hazenberg. 

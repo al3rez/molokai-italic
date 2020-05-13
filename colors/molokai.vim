@@ -152,7 +152,7 @@ if &t_Co > 255
    hi Character       ctermfg=144
    hi Number          ctermfg=135
    hi String          ctermfg=144
-   hi Conditional     ctermfg=161               cterm=bold
+   hi Conditional     ctermfg=161               cterm=italic gui=italic
    hi Constant        ctermfg=135               cterm=italic gui=italic
    hi Cursor          ctermfg=16  ctermbg=253
    hi Debug           ctermfg=225               cterm=bold

@@ -13,8 +13,8 @@ __TERM__: Alacritty
 
 This is a fork of [fatih/molokai](https://github.com/fatih/molokai) with the following changes:
 
-* `Comment` color style is changed to `italic'
-* `Statement` color style is changed to `italic
+* `Comment` color style is changed to `italic`
+* `Statement` color style is changed to `italic`
 * `Conditional` color style is changed to `italic`
 * `Constant` color style is changed to `italic`
 
